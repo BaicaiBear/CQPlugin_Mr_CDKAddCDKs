@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  appmain.cpp
+c:\users\baiyu\desktop\cqsdk-vc-master\cqsdk-vc-master\cqpdemo\appmain.cpp(43): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+c:\users\baiyu\desktop\cqsdk-vc-master\cqsdk-vc-master\cqpdemo\appmain.cpp(45): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+  dllmain.cpp
+    正在创建库 C:\Users\baiyu\Desktop\cqsdk-vc-master\cqsdk-vc-master\Release\com.example.democ.lib 和对象 C:\Users\baiyu\Desktop\cqsdk-vc-master\cqsdk-vc-master\Release\com.example.democ.exp
+  正在生成代码
+  All 519 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CQPDemo.vcxproj -> C:\Users\baiyu\Desktop\cqsdk-vc-master\cqsdk-vc-master\Release\com.example.democ.dll
